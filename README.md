@@ -13,7 +13,6 @@ If you use this application, please cite Steenwyk JL, <i>et al.</i> A gene coevo
 --------------------
 
 ## Try it in your browser via MyBinder.org
-https://github.com/fomightez/budding_yeast_coevolution_network
 
 Jupyter+R: [![Binder](http://mybinder.org/badge_logo.svg)](http://mybinder.org/v2/gh/fomightez/budding_yeast_coevolution_network/main?filepath=index.ipynb)
 
