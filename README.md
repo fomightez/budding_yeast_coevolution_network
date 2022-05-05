@@ -18,7 +18,7 @@ Jupyter+R: [![Binder](http://mybinder.org/badge_logo.svg)](http://mybinder.org/v
 
 RStudio: [![Binder](http://mybinder.org/badge_logo.svg)](http://mybinder.org/v2/gh/fomightez/budding_yeast_coevolution_network/main?urlpath=rstudio)
 
-RShiny: [![Binder](http://mybinder.org/badge_logo.svg)](http://mybinder.org/v2/gh/fomightez/budding_yeast_coevolution_network/main?urlpath=shiny/bus-dashboard/)
+RShiny: [![Binder](http://mybinder.org/badge_logo.svg)](http://mybinder.org/v2/gh/fomightez/budding_yeast_coevolution_network/main?urlpath=shiny/the_app/)
 
 -------------------
 
