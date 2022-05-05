@@ -12,15 +12,17 @@ If you use this application, please cite Steenwyk JL, <i>et al.</i> A gene coevo
 
 --------------------
 
-## Try it in your browser via MyBinder.org
+## Run it in your browser via MyBinder.org Without Installing Anything
 
-Jupyter+R: [![Binder](http://mybinder.org/badge_logo.svg)](http://mybinder.org/v2/gh/fomightez/budding_yeast_coevolution_network/main?filepath=index.ipynb)
+Click on the launch badge:
 
-RStudio: [![Binder](http://mybinder.org/badge_logo.svg)](http://mybinder.org/v2/gh/fomightez/budding_yeast_coevolution_network/main?urlpath=rstudio)
+[![Binder](http://mybinder.org/badge_logo.svg)](http://mybinder.org/v2/gh/fomightez/budding_yeast_coevolution_network/main?urlpath=shiny/the_app/)
 
-RShiny: [![Binder](http://mybinder.org/badge_logo.svg)](http://mybinder.org/v2/gh/fomightez/budding_yeast_coevolution_network/main?urlpath=shiny/the_app/)
+Note: You have to upload the example file from your local machine even though it is in repo.
 
 -------------------
+
+# If you prefer using it not via MyBinder...
 
 ## Quick Start
 
