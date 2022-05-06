@@ -22,7 +22,7 @@ Note: You have to upload the example file from your local machine even though it
 
 -------------------
 
-# If you prefer using it not via MyBinder...
+## If you prefer using it by installing on your own machine...
 
 ## Quick Start
 
